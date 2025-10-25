@@ -1,0 +1,3 @@
+Función agregada:
+
+ Se implemento una optimización en el orden de búsqueda de elementos tomando forma alfabética, optimizándolo a su forma anterior, haciendo una búsqueda mas rápida y efectiva, disminuyendo el tiempo de procesamiento

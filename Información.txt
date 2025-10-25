@@ -1,0 +1,19 @@
+Información
+ Se plantea programar un GPS funcional y optimizado de la Universidad
+ Industrial de Santander (UIS) usando datos reales preestablecidos
+ (localizaciones, caminos) en el sistema, que permita la búsqueda y
+ optimización de los caminos por los cuales se realizaría el recorrido,
+ funcionando como una aplicación tipo Google Maps sin la necesidad de
+ acceso a internet, la implementación de alguna base de datos o el uso de
+ satélites para dicha información, siendo utilizable en cualquier contexto
+ que limite al usuario.
+
+Hecho por:
+ BRAYAN STIVEN BALLESTEROS MUÑOZ- 2242057
+ KEVIN ESTEBAN VARGAS FONCHA - 2242902
+
+Librerias:
+ sys: manejo intérprete de phyton
+ listasenlazadas: uso de lista enlazada
+ os y base 64: manejo de archivos
+ flet: uso de interfaz grafica
