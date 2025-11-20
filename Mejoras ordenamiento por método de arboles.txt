@@ -1,5 +1,0 @@
-Mejoras ordenamiento por método de árbol:
-Se mejora el proceso de búsqueda con mayor optimización a comparación con el sistema de listas enlazadas
-Adquiere un mejor manejo de los elementos en el programa, haciéndolo mas optimo que su versión anterior
-Aumenta la velocidad del programa a la hora de activar el código gracias a la mejoras de optimización de búsqueda 
-provocando menor uso de RAM
