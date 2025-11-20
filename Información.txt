@@ -17,3 +17,16 @@ Librerias:
  listasenlazadas: uso de lista enlazada
  os y base 64: manejo de archivos
  flet: uso de interfaz grafica
+
+Función agregada:
+
+ Se implemento una optimización en el orden de búsqueda de elementos tomando forma alfabética, optimizándolo a su forma anterior, haciendo una búsqueda mas rápida y efectiva, disminuyendo el tiempo de procesamiento
+
+Mejoras ordenamiento por método de árbol:
+Se mejora el proceso de búsqueda con mayor optimización a comparación con el sistema de listas enlazadas
+Adquiere un mejor manejo de los elementos en el programa, haciéndolo mas optimo que su versión anterior
+Aumenta la velocidad del programa a la hora de activar el código gracias a la mejoras de optimización de búsqueda 
+provocando menor uso de RAM
+
+Mejoras ordenamiento por método de grafo:
+La implementación de grafos tiene mayor flexibilidad de conexiones, adoptando una búsqueda mas puntual y conectándose directamente con el elemento solicitado, aumenta la adaptabilidad del código a diferencia del ordenamiento jerárquico del método de arboles
